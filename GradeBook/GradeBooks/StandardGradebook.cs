@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GradeBook.Enums
+namespace GradeBook.GradeBooks
 {
-    class GradeBookType
+    class StandartGradebook
     {
     }
 }
